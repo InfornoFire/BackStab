@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern": [
+        "A",
+        "B"
+    ],
+   
+    "key": {
+        "A": {
+            "item": "minecraft:iron_ingot"
+        },
+     	"B": {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result": {
+        "item": "backstab:iron_dagger",
+        "count": 1
+    }
+}

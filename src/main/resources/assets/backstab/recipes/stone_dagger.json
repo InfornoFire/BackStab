@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern": [
+        "A",
+        "B"
+    ],
+   
+    "key": {
+        "A": {
+            "item": "minecraft:cobblestone"
+        },
+     	"B": {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result": {
+        "item": "backstab:stone_dagger",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern": [
+        "A",
+        "B"
+    ],
+   
+    "key": {
+        "A": {
+            "item": "minecraft:planks",
+	        "data": 32767
+        },
+	    "B": {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result": {
+        "item": "backstab:wood_dagger",
+        "count": 1
+    }
+}
