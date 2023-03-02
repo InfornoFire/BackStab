@@ -8,10 +8,9 @@
    
     "key": {
         "A": {
-            "item": "minecraft:planks",
-	        "data": 32767
+            "tag": "minecraft:planks"
         },
-	    "B": {
+     	"B": {
             "item": "minecraft:stick"
         }
     },

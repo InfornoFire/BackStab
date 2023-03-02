@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/InfornoFire/BackStab/issues"
+showAsResourcePack=false
+[[mods]]
+    modId="backstab"
+    version="${file.jarVersion}"
+    displayName="Backstab Mod"
+    updateJSONURL="https://raw.githubusercontent.com/InfornoFire/BackStab/master/update.json"
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/backstab"
+    logoFile="icon.png"
+    #credits=""
+    authors="Inforno"
+    description='''
+    Adds backstabbing to Minecraft!
+    '''
+    
+[[dependencies.backstab]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.backstab]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,)"
+    ordering="NONE"
+    side="BOTH"

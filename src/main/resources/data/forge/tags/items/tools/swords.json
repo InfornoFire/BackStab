@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "backstab:wood_dagger",
+    "backstab:stone_dagger",
+    "backstab:iron_dagger",
+    "backstab:gold_dagger",
+    "backstab:diamond_dagger",
+    "backstab:netherite_dagger"
+  ]
+}
